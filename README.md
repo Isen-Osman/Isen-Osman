@@ -1,23 +1,14 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Isen%20Osman&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Software%20Engineer%20%7C%20Building%20clean%20and%20practical%20software&descAlignY=58&descSize=18" alt="header" />
-</div>
-
-<div align="center">
+<div align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Isen+Osman+%F0%9F%91%8B;Junior+Software+Engineer;Backend+%26+Frontend+Developer;Turning+ideas+into+user-friendly+applications;Always+learning%2C+building%2C+and+improving" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=900&color=58A6FF&center=false&vCenter=true&width=900&lines=Hi%2C+I'm+Isen+Osman+%F0%9F%91%8B;Junior+Software+Engineer;Backend+%26+Frontend+Developer;Turning+ideas+into+user-friendly+applications;Always+learning%2C+building%2C+and+improving" alt="Typing SVG" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Isen-Osman&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/Isen-Osman?tab=followers"><img src="https://img.shields.io/github/followers/Isen-Osman?label=Followers&style=flat&color=0e75b6" alt="followers" /></a>
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🚀 Junior Software Engineer focused on building **practical, reliable, and user-friendly applications**
 - 🧩 Enjoy working across **backend and frontend** to solve real-world problems
@@ -54,13 +45,7 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isen-Osman&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Isen-Osman&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies" />
-</div>
-
 ---
-
-## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
