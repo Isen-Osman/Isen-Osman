@@ -1,10 +1,10 @@
+
 <div align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=900&color=58A6FF&center=false&vCenter=true&width=900&lines=Hi%2C+I'm+Isen+Osman+%F0%9F%91%8B;Junior+Software+Engineer;Backend+%26+Frontend+Developer;Turning+ideas+into+user-friendly+applications;Always+learning%2C+building%2C+and+improving" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=900&color=58A6FF&center=false&vCenter=true&width=900&lines=Hi%2C+I'm+Isen+Osman+%F0%9F%91%8B;Junior+Software+Engineer;Full+Stack+Developer;Building+modern+web+applications;Java+%7C+Spring+Boot+%7C+React+%7C+Laravel;Always+learning%2C+building%2C+and+improving" alt="Typing SVG" />
   </a>
 </div>
 
----
 
 ## 👨‍💻 About Me
 
